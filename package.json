@@ -1,0 +1,68 @@
+{
+  "homepage": "https://shahzodnazarov.github.io/item",
+  "name": "lesson1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mui/material": "^5.15.3",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.11",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.6.5",
+    "bootstrap": "^5.2.3",
+    "materialui-pagination": "^0.0.6",
+    "materialui-pagination-component": "^1.1.12",
+    "mdb-react-ui-kit": "^7.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.9.2",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.49.3",
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^6.21.1",
+    "react-scripts": "5.0.1",
+    "react-switch": "^7.0.0",
+    "react-uuid": "^2.0.0",
+    "react-yandex-maps": "^4.6.0",
+    "rodal": "^2.1.0",
+    "sass": "^1.62.1",
+    "styled-components": "^6.1.8",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5",
+    "yandex-maps": "^0.0.1",
+    "yarn": "^1.22.21"
+  },
+  "scripts": {
+    "prederploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
