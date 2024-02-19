@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/map/static/css/main.c42dc11f.css",
+    "main.js": "/map/static/js/main.0017659b.js",
+    "static/media/bestsky.jpg": "/map/static/media/bestsky.8a9d4f3c1864f6bb03c3.jpg",
+    "index.html": "/map/index.html",
+    "main.c42dc11f.css.map": "/map/static/css/main.c42dc11f.css.map",
+    "main.0017659b.js.map": "/map/static/js/main.0017659b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c42dc11f.css",
+    "static/js/main.0017659b.js"
+  ]
+}
